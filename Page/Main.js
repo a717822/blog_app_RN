@@ -79,7 +79,7 @@ export default class BasicTabBarExample extends React.Component{
                         })
                     }}>
                         <View>
-                            <Text>React & Vue</Text>
+                            <Text>React Native</Text>
                         </View>
                     </List.Item>
                 </List>
