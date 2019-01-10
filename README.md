@@ -12,7 +12,7 @@
 + 6、"react-native-table-component": "^1.1.8",
 + 7、"react-native-vector-icons": "^5.0.0"
 
-想了解这些框架的实际应用，可以查看 https://www.yangzilong.cn/Detail/15
+想了解这些框架的实际应用，可以查看 https://www.yangzilong.cn/blog/Detail?id=15
 
 # 效果图
 <div>
